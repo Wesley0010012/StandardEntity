@@ -1,0 +1,19 @@
+{
+  "name": "standardentity",
+  "version": "1.0.0",
+  "description": "Standard entity and repository for implementation uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wesley0010012/StandardEntity.git"
+  },
+  "author": "Wesley Gabriel Laurindo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wesley0010012/StandardEntity/issues"
+  },
+  "homepage": "https://github.com/Wesley0010012/StandardEntity#readme"
+}
