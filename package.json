@@ -1,0 +1,27 @@
+{
+  "name": "standard-entity",
+  "version": "1.0.0",
+  "description": "Standard entity and repository for implementation uses",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc && tsc-alias",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wesley0010012/StandardEntity.git"
+  },
+  "author": "Wesley Gabriel Laurindo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wesley0010012/StandardEntity/issues"
+  },
+  "homepage": "https://github.com/Wesley0010012/StandardEntity#readme",
+  "dependencies": {
+    "project-custom-errors": "^1.0.2",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "tsc-alias": "^1.8.11"
+  }
+}
